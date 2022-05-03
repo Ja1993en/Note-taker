@@ -24,7 +24,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 Clone the project
 
 ```bash
-  git clone https://github.com/alexwsalazar/Fresh-Note-Taker
+  git clone https://github.com/Ja1993en/Note-taker.git
 ```
 
 Go to the project directory
