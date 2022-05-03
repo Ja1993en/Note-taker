@@ -4,7 +4,7 @@
 
 In this assignment I modified stater code to create a application called Fresh Note Taker that can be used to write and save notes. This application uses Express.js back end and saves and retrives note data from a JSON file.
 
-The application's front end was already provided for me. it was my job to build the back end, connect the two, and then deploy the enire application to Heroku.
+This app utilizes the CRUD methodology 
 
 ## User Story
 
@@ -48,9 +48,9 @@ Start the server
 
 ## Support
 
-For support, email alexwsalazar@yahoo.com 
+For support, email mcneal.jalen@yahoo.com
 
 
 ## Authors
 
-- [@alexwsalazar](https://www.github.com/alexwsalazar)
+- [@ja1993en](https://github.com/Ja1993en)
